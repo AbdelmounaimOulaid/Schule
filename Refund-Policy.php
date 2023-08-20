@@ -5,7 +5,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0">
-    <title>Woche - Terms and Conditions</title>
+    <title>Schule - Terms and Conditions</title>
 
     <link rel="shortcut icon" type="image/x-icon" href="assets/img/Logo-Blue.png">
 
@@ -56,7 +56,7 @@
                                 <p>All refunds must be postmarked within (10) days of the purchase date. All refunded items must be in new and unused condition, with all original tags and labels attached.</p>
                                 <p>refund PROCESS</p>
                                 <p>To refund an item, please email customer service at contact@wocheinstitute.com to obtain a refund Merchandise Authorization (RMA) number. After receiving an RMA number, place the item securely in its original packaging and include your proof of purchase, then mail your refund to the following address:</p>
-                                <adress>Woche Institute<br>
+                                <adress>Schule Institute<br>
                                     Attn: refunds<br>
                                     RMA #<br>
                                     kreuzstrasse 24, 8008 Zürich, Switzerland<br>

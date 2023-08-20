@@ -8,7 +8,7 @@
                         <div class="footer-logo">
                             <img src="assets/img/Logo-white.png" alt="logo">
                         </div>
-                        <p style="font-weight:bold;font-size:20px">Woche is much more than a private for-profit academy! We are a social movement!</p>
+                        <p style="font-weight:bold;font-size:20px">Schule is much more than a private for-profit academy! We are a social movement!</p>
                     </div>
                     <div class="footer__social">
 
@@ -71,7 +71,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-12">
-                    <p style="font-size: 14px;">Copyright© 2019-2022 Wocheinstitute Academy 1617 Monroe St NE Washington, DC 20018 All Rights Reserved.</p>
+                    <p style="font-size: 14px;">Copyright© 2019-2022 Schuleinstitute Academy 1617 Monroe St NE Washington, DC 20018 All Rights Reserved.</p>
                 </div>
             </div>
         </div>
@@ -113,7 +113,7 @@
 
                                 <div class="footer__widget-info">
 
-                                    <p style="font-weight:bold;font-size:20px">Woche is much more than a private for-profit institute! We are a social movement!</p>
+                                    <p style="font-weight:bold;font-size:20px">Schule is much more than a private for-profit institute! We are a social movement!</p>
 
                                     <div class="footer__social">
 
@@ -271,7 +271,7 @@
 
                                 <div class="footer__copyright text-left">
 
-                                  <p> Copyright© 2020-2023 Woche Institute kreuzstrasse 24, 8008 Zürich, Switzerland All Rights Reserved.
+                                  <p> Copyright© 2020-2023 Schule Institute kreuzstrasse 24, 8008 Zürich, Switzerland All Rights Reserved.
                                 </div>
 
                             </div>
