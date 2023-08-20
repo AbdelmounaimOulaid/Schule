@@ -142,11 +142,11 @@
 
   --tp-text-15: #a1a2ab;
 
-  --tp-theme-1: #1A76AC;
+  --tp-theme-1: #AC391A;
 
-  --tp-theme-2: #1A76AC;
+  --tp-theme-2: #AC391A;
 
-  --tp-theme-3: #1A76AC;
+  --tp-theme-3: #AC391A;
 
   --tp-border-1: #dedede;
 
@@ -24442,7 +24442,7 @@ only screen and (min-width: 576px) and (max-width: 767px),
 
 .blueg {
 
-  background-color: #1A76AC !important;
+  background-color: #AC391A !important;
 
   border-radius: 4px;
 

@@ -51,7 +51,7 @@ margin: 40px 0;
                                 <p style="font-size:18px">
                                     <b>Schule institute</b> Program prepares students for success in their undergraduate or graduate fields of study. We help students to satisfy their English language requirements and to meet their academic requirements for admission. We offer personalized counseling and academic tutoring throughout the students’ application process. It’s our goal to help them smoothly transition to international universities around the world, including the United States, the United Kingdom, and Canada.
                                 </p>
-                                <h3 class="title" style="color:#1A76AC">Business english </span></h3>
+                                <h3 class="title" style="color:#AC391A">Business english </span></h3>
                                 <p style="font-size:18px">Schule’s Business Program focuses on skills-based business English for professionals who want to increase their ability to function effectively in social and business settings. Our courses can help you to improve your English language skills, specifically business writing and public speaking, while learning industry specific phrasing and vocabulary. </p>
                                 We can help you to:
                                 <ul class="list-style-three pt-10">
@@ -95,13 +95,13 @@ margin: 40px 0;
                                 </ul>
                                 <br /><br />
 
-                                <h3 class="title" style="color:#1A76AC">Academic & Career Advising </span></h3>
+                                <h3 class="title" style="color:#AC391A">Academic & Career Advising </span></h3>
                                 <p style="font-size:18px">Our Advisors are available to help you prepare for university-level work or answer questions about international employment opportunities. </p>
 
-                                <h3 class="title" style="color:#1A76AC">Academic Advising</span></h3>
+                                <h3 class="title" style="color:#AC391A">Academic Advising</span></h3>
                                 <p style="font-size:18px">Schuleinstitutehelps you to improve your English skills in order to pass English language proficiency exams: TOEFL (iBT),) TOEIC, and IELTS. We can also help you to prepare for academic course work in English by familiarizing you with new academic processes; networking and individual presentation strategies. </p>
 
-                                <h3 class="title" style="color:#1A76AC">Career Advising</span></h3>
+                                <h3 class="title" style="color:#AC391A">Career Advising</span></h3>
                                 <p style="font-size:18px">We can advise you regarding your international job searches or business endeavors. You can schedule a one-on-one appointment with an Advisor for individualized attention with: recommendation letters, applications, portfolios, proposals or presentations. </p>
 
                             </div>
