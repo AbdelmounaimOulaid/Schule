@@ -38,7 +38,7 @@
             max-width: 100%;
             height: 380px;
             margin-bottom: 80px;
-            border: 3px solid #1a76ac;
+            border: 3px solid #AC601A;
         }
     </style>
 

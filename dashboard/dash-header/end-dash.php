@@ -26,7 +26,7 @@
                     text: 'You are not authorized to access this page yet!',
 
                 })
-                $(".swal2-styled.swal2-confirm").css('background-color', '#1a76ac');
+                $(".swal2-styled.swal2-confirm").css('background-color', '#AC601A');
             });
         });
 </script>

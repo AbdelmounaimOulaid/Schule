@@ -24271,7 +24271,7 @@ only screen and (min-width: 576px) and (max-width: 767px),
 
 .btn-green-english {
 
-  background-color: #1a76ac;
+  background-color: #AC601A;
 
   color: #fff !important;
 
@@ -24331,9 +24331,9 @@ only screen and (min-width: 576px) and (max-width: 767px),
 
 .employee-container .item-employee .card {
 
-  background: #1a76ac;
+  background: #AC601A;
 
-  background: -webkit-linear-gradient(6deg, #1a76ac 0%, #54aee2 100%);
+  background: -webkit-linear-gradient(6deg, #AC601A 0%, #54aee2 100%);
 
   margin: 0%;
 

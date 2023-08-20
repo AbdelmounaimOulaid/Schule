@@ -74,7 +74,7 @@ $resulte = mysqli_query($db, $query);
 
         .main-video {
             margin-top: 20px;
-            border: 7px solid #1a76ac;
+            border: 7px solid #AC601A;
         }
 
         #Rowpricing {
@@ -508,7 +508,7 @@ $resulte = mysqli_query($db, $query);
                     showConfirmButton: false,
                     timer: 1500
                 })
-                $(".swal2-styled.swal2-confirm").css('background-color', '#1a76ac');
+                $(".swal2-styled.swal2-confirm").css('background-color', '#AC601A');
             });
         });
     </script>
