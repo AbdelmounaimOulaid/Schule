@@ -1265,7 +1265,7 @@ p, ul li, ol li {
 }
 
 .kilimanjaro_links li a i{
-    color: #007bff !important;
+    color: #FF7A00 !important;
 font-size: 20px;
 margin-right: 10px;
 }
@@ -6002,7 +6002,7 @@ Rating
   
   .card-of-testi .header .button button:hover {
   
-	background-color: #007bff;
+	background-color: #FF7A00;
   
   }
   

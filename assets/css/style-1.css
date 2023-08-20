@@ -250,7 +250,7 @@ body {
 
   height: 0.1875rem;
 
-  background: #007bff;
+  background: #FF7A00;
 
   transition: width 500ms ease-out, opacity 400ms linear;
 
@@ -24149,7 +24149,7 @@ only screen and (min-width: 576px) and (max-width: 767px),
 
 .card-of-testi .header .button button:hover {
 
-  background-color: #007bff;
+  background-color: #FF7A00;
 
 }
 
@@ -24472,7 +24472,7 @@ only screen and (min-width: 576px) and (max-width: 767px),
 
 .contact-us i {
 
-  color: #007bff !important;
+  color: #FF7A00 !important;
 
   font-size: 20px;
 
