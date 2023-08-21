@@ -17,14 +17,14 @@ if (!isset($_SESSION['int_email'])) {
     <style>
         .btn-primary {
             background-color: transparent !important;
-            color: #30b7ff !important;
+            color: #FF8130 !important;
             font-size: large !important;
             font-weight: 600 !important;
             border: 2px solid !important;
         }
 
         .video-img {
-            border: 8px solid #30b7ff;
+            border: 8px solid #FF8130;
             height: 384px;
             width: 700px;
         }
@@ -60,7 +60,7 @@ if (!isset($_SESSION['int_email'])) {
             </div> <!-- END VIDEO TEXT -->
             <!-- VIDEO LINK -->
             <div class="col-md-12">
-                <div class="video-link text-center" style="border: 7px solid #30b7ff;">
+                <div class="video-link text-center" style="border: 7px solid #FF8130;">
 
                     <!-- Change the link HERE!!! -->
                     <div class="play-btn play-btn-rose text-center">

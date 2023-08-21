@@ -311,7 +311,7 @@
                 labels: ["Total Students (52)", "Assigned Students (0)", "Leads (0)"],
                 datasets: [{
                     label: "Population (millions)",
-                    backgroundColor: ["#30b7ff", "#8e5ea2", "#3cba9f"],
+                    backgroundColor: ["#FF8130", "#8e5ea2", "#3cba9f"],
                     data: [10000, 0, 0]
                 }]
             },
@@ -331,7 +331,7 @@
                 labels: ["Not Started (1)", "In Progress (0)", "Completed (0)"],
                 datasets: [{
                     label: "Population (millions)",
-                    backgroundColor: ["#30b7ff", "#8e5ea2", "#3cba9f"],
+                    backgroundColor: ["#FF8130", "#8e5ea2", "#3cba9f"],
                     data: [10000, 0, 0]
                 }]
             },

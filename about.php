@@ -26,7 +26,7 @@
 
         .main-video {
             margin-top: 20px;
-            border: 4px solid #30b7ff;
+            border: 4px solid #FF8130;
         }
 
 

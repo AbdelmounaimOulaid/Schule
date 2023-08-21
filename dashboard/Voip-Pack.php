@@ -36,22 +36,22 @@ if (!isset($_SESSION['int_email'])) {
         }
 
         .price__item.active {
-            border-color: #30b7ff !important;
+            border-color: #FF8130 !important;
         }
 
         .price__list ul li span {
-            border: 1px solid #30b7ff !important;
-            background-color: #30b7ff !important;
+            border: 1px solid #FF8130 !important;
+            background-color: #FF8130 !important;
         }
 
         select#payment {
-            border: 1px solid #30b7ff !important;
-            color: #30b7ff !important;
+            border: 1px solid #FF8130 !important;
+            color: #FF8130 !important;
         }
 
         .tp-btn-9 {
-            background-color: #30b7ff !important;
-            border-color: #30b7ff !important;
+            background-color: #FF8130 !important;
+            border-color: #FF8130 !important;
         }
     </style>
     <?php include('dash-header/dash-header.php') ?>

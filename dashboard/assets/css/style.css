@@ -267,7 +267,7 @@ strong {
 
 .card .card-header h5:after {
   content: "";
-  background-color: #30b7ff;
+  background-color: #FF8130;
   position: absolute;
   left: -20px;
   top: 0;
@@ -11027,7 +11027,7 @@ body[themebg-pattern="theme6"] {
 }
 
 .pcoded .pcoded-navbar[active-item-theme="theme1"] .pcoded-item>li.active>a {
-  background: #30b7ff;
+  background: #FF8130;
   color: #fff !important;
   font-weight: 600;
 }
@@ -11921,7 +11921,7 @@ body[themebg-pattern="theme6"] {
 }
 
 .pcoded .pcoded-header[header-theme="theme1"] {
-  background: #30b7ff;
+  background: #FF8130;
 }
 
 .pcoded .pcoded-header[header-theme="theme1"] .input-group-addon,
