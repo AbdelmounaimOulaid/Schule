@@ -626,7 +626,7 @@ strong {
 }
 
 .sweet-alert button.confirm {
-  background-color: #448aff !important;
+  background-color: #FF8744!important;
 }
 
 .sweet-alert .sa-input-error {
@@ -1166,7 +1166,7 @@ button.close {
   width: 0;
   position: absolute;
   pointer-events: none;
-  border-color: #448aff transparent transparent;
+  border-color: #FF8744transparent transparent;
   border-width: 10px;
   margin-left: -10px;
 }
@@ -6882,7 +6882,7 @@ select.form-control:not([size]):not([multiple]) {
 /*====== Image-sizes css ends ======*/
 /*======= Text css starts ===========*/
 .text-primary {
-  color: #448aff !important;
+  color: #FF8744!important;
 }
 
 .text-warning {
@@ -7021,7 +7021,7 @@ select.form-control:not([size]):not([multiple]) {
 }
 
 .bg-primary {
-  background-color: #448aff !important;
+  background-color: #FF8744!important;
   color: #fff;
 }
 
@@ -7088,7 +7088,7 @@ select.form-control:not([size]):not([multiple]) {
 /*======= Button-color css ends  ======= */
 /*======= Loader-color css starts  ======= */
 .loader-primary {
-  background-color: #448aff !important;
+  background-color: #FF8744!important;
 }
 
 .loader-warning {
@@ -7118,7 +7118,7 @@ select.form-control:not([size]):not([multiple]) {
 /*======= Loader-color css ends  ======= */
 /*======= Nestable-color css starts  ======= */
 .nestable-primary {
-  background-color: #448aff !important;
+  background-color: #FF8744!important;
   border-color: #448aff;
   color: #fff !important;
 }
@@ -7299,7 +7299,7 @@ table tbody .border-bottom-info td {
 /*======= Table styling css ends  ======= */
 /*======= Toolbar css starts  ======= */
 .toolbar-primary .tool-item {
-  background: #448aff !important;
+  background: #FF8744!important;
 }
 
 .toolbar-primary .tool-item.selected,
@@ -7308,7 +7308,7 @@ table tbody .border-bottom-info td {
 }
 
 .toolbar-primary.tool-top .arrow {
-  border-color: #448aff transparent transparent;
+  border-color: #FF8744transparent transparent;
 }
 
 .toolbar-primary.tool-bottom .arrow {
@@ -7320,7 +7320,7 @@ table tbody .border-bottom-info td {
 }
 
 .toolbar-primary.tool-right .arrow {
-  border-color: transparent #448aff transparent transparent;
+  border-color: transparent #FF8744transparent transparent;
 }
 
 .btn-toolbar-primary.pressed {
@@ -11007,7 +11007,7 @@ body[themebg-pattern="theme6"] {
 
 .pcoded .pcoded-navbar[active-item-theme="theme1"] .pcoded-item li .pcoded-submenu li.active>a,
 .pcoded .pcoded-navbar[active-item-theme="theme1"] .pcoded-item li .pcoded-submenu li:hover>a {
-  color: #448aff !important;
+  color: #FF8744!important;
 }
 
 .pcoded .pcoded-navbar[active-item-theme="theme1"] .pcoded-item li .pcoded-submenu li.active>a {
@@ -11015,11 +11015,11 @@ body[themebg-pattern="theme6"] {
 }
 
 .pcoded .pcoded-navbar[active-item-theme="theme1"] .pcoded-item li:hover>a {
-  color: #448aff !important;
+  color: #FF8744!important;
 }
 
 .pcoded .pcoded-navbar[active-item-theme="theme1"] .pcoded-item li:hover>a .pcoded-micon {
-  color: #448aff !important;
+  color: #FF8744!important;
 }
 
 .pcoded .pcoded-navbar[active-item-theme="theme1"] .pcoded-item li:hover>a:before {
@@ -15217,7 +15217,7 @@ span.badge {
 .label-inverse-primary {
   border: 1px solid;
   border-color: #448aff;
-  color: #448aff !important;
+  color: #FF8744!important;
 }
 
 .label-inverse-success {
@@ -15259,7 +15259,7 @@ span.badge {
 .badge-inverse-primary {
   border: 1px solid;
   border-color: #448aff;
-  color: #448aff !important;
+  color: #FF8744!important;
 }
 
 .badge-inverse-success {
@@ -15518,7 +15518,7 @@ label.txt-ellipsis {
 
 .j-pro .j-tooltip:before,
 .j-pro .j-tooltip-image:before {
-  border-color: #448aff transparent;
+  border-color: #FF8744transparent;
 }
 
 .j-pro .j-primary-btn,
@@ -16520,7 +16520,7 @@ th {
 .wather-card .nature-card {
   position: relative;
   background: -webkit-gradient(linear, left top, left bottom, color-stop(60%, #5e9aff), to(#448aff));
-  background: linear-gradient(#5e9aff 60%, #448aff 100%);
+  background: linear-gradient(#5e9aff 60%, #FF8744100%);
   overflow: hidden;
 }
 
@@ -16639,7 +16639,7 @@ th {
 .wather-card-2 .nature-card {
   position: relative;
   background: -webkit-gradient(linear, left top, left bottom, color-stop(60%, #5e9aff), to(#448aff));
-  background: linear-gradient(#5e9aff 60%, #448aff 100%);
+  background: linear-gradient(#5e9aff 60%, #FF8744100%);
 }
 
 .wather-card-2 .nature-card .bottom-img {
