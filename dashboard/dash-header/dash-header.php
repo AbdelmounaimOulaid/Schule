@@ -92,7 +92,7 @@
                             <i class="ti-menu"></i>
                         </a>
                         <a href="../index.php" class="waves-effect waves-light">
-                            <img style="width: 70px;" src="assets/images/Logo-White.png" class="img-radius" alt="User-Profile-Image">
+                            <img style="width: 70px;" src="assets/images/logo_schule_white.png" class="img-radius" alt="User-Profile-Image">
                         </a>
 
                     </div>
@@ -111,7 +111,7 @@
                                     </li>
                                     <li class="waves-effect waves-light">
                                         <div class="media">
-                                            <img class="d-flex align-self-center img-radius" style="width: 60px;" src="../assets/img/Logo-Blue.png" alt="Generic placeholder image">
+                                            <img class="d-flex align-self-center img-radius" style="width: 60px;" src="../assets/img/logo_schule.png" alt="Generic placeholder image">
                                             <div class="media-body">
                                                 <h5 class="notification-user">Schule</h5>
                                                 <p class="notification-msg">Welcome to your Intern Dashboard

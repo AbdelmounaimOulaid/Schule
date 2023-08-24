@@ -67,7 +67,7 @@ if (isset($_POST['submit'])) {
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0">
     <title>Schule - Login</title>
 
-    <link rel="shortcut icon" type="image/x-icon" href="assets/img/Logo-Blue.png">
+    <link rel="shortcut icon" type="image/x-icon" href="assets/img/logo_schule.png">
 
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
 
@@ -125,7 +125,7 @@ if (isset($_POST['submit'])) {
                     <div class="loginbox">
                         <div class="w-100">
                             <div class="img-logo">
-                                <img src="assets/img/Logo-Blue.png" class="img-fluid" alt="Logo">
+                                <img src="assets/img/logo_schule.png" class="img-fluid" alt="Logo">
                                 <div class="back-home">
                                     <a href="index.php">Back to Home</a>
                                 </div>

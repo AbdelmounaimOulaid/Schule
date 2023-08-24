@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0">
     <title>Schule - 404</title>
 
-    <link rel="shortcut icon" type="image/x-icon" href="assets/img/Logo-Blue.png">
+    <link rel="shortcut icon" type="image/x-icon" href="assets/img/logo_schule.png">
 
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
 
@@ -27,7 +27,7 @@
         <div class="error-box">
             <div class="error-logo">
                 <a href="index.html">
-                    <img src="assets/img/Logo-Blue.png" class="img-fluid" alt="Logo">
+                    <img src="assets/img/logo_schule.png" class="img-fluid" alt="Logo">
                 </a>
             </div>
             <div class="error-box-img">

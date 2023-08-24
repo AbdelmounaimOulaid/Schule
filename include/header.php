@@ -11,13 +11,13 @@
                         </span>
                     </a>
                     <a href="index.php" class="navbar-brand logo">
-                        <img src="assets/img/Logo-Blue.png" class="img-fluid"  alt="Logo">
+                        <img src="assets/img/logo_schule.png" class="img-fluid"  alt="Logo">
                     </a>
                 </div>
                 <div class="main-menu-wrapper">
                     <div class="menu-header">
                         <a href="index.php" class="menu-logo" style="margin: 0 auto;">
-                            <img src="assets/img/Logo-Blue.png" style="margin-left:10px;" class="img-fluid " alt="Logo">
+                            <img src="assets/img/logo_schule.png" style="margin-left:10px;" class="img-fluid " alt="Logo">
                         </a>
                         <a id="menu_close" class="menu-close" href="javascript:void(0);">
                             <i class="fas fa-times"></i>

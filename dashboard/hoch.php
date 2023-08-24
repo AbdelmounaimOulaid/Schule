@@ -12,7 +12,7 @@ if (!isset($_SESSION['int_email'])) {
 <head>
     <title>Schule</title>
 
-    <link rel="shortcut icon" type="image/x-icon" href="../assets/img/Logo-Blue.png">
+    <link rel="shortcut icon" type="image/x-icon" href="../assets/img/logo_schule.png">
     <link rel="stylesheet" type="text/css" href="assets/css/Popup.css">
     <style>
         .btn-primary {

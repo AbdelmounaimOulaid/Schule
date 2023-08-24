@@ -6,7 +6,7 @@
                 <div class="col-12 col-md-6 col-lg-6">
                     <div class="kilimanjaro_part">
                         <div class="footer-logo">
-                            <img src="assets/img/Logo-white.png" alt="logo">
+                            <img src="assets/img/logo_schule_white.png" alt="logo">
                         </div>
                         <p style="font-weight:bold;font-size:20px">Schule is much more than a private for-profit academy! We are a social movement!</p>
                     </div>
@@ -101,7 +101,7 @@
 
                                     <a href="index.html">
 
-                                        <img src="assets/img/Logo-White.png" alt="">
+                                        <img src="assets/img/logo_schule_white.png" alt="">
 
                                     </a>
 
