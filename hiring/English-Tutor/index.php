@@ -941,12 +941,12 @@ display: none; */
 <!--    <link rel="stylesheet" href="../../assets/css/owl.carousel.min.css">-->
     <!-- <link rel="stylesheet" href="../../assets/css/owl.theme.default.min.css"> -->
     <!-- 
-<!--    <link rel="stylesheet" href="../../assets/plugins/slick/slick.css">-->
-<!--    <link rel="stylesheet" href="../../assets/plugins/slick/slick-theme.css"> -->-->
+   <link rel="stylesheet" href="../../assets/plugins/slick/slick.css">-->
+<!--    <link rel="stylesheet" href="../../assets/plugins/slick/slick-theme.css"> -->
     <!-- 
-<!--    <link rel="stylesheet" href="../../assets/plugins/select2/css/select2.min.css">-->
+    <link rel="stylesheet" href="../../assets/plugins/select2/css/select2.min.css">-->
 
-<!--    <link rel="stylesheet" href="../../assets/plugins/aos/aos.css"> -->-->
+<!--    <link rel="stylesheet" href="../../assets/plugins/aos/aos.css"> -->
 
 <!--    <link rel="stylesheet" href="../../assets/css/style.css">-->
 <!--    <link rel="stylesheet" href="../../assets/css/style-1.css">-->
@@ -1110,7 +1110,10 @@ display: none; */
 
 <!--    <div class="main-wrapper">-->
         <!-- /*** */ include header ***/ -->
-<!--        <?php include('../include/header.php'); ?>-->
+
+     <!-- herder was here -->
+
+
 <!--        <div id="__next" data-reactroot="">-->
 <!--            <div data-testid="JobAd" class="sc-beqWaB iXNcvV">-->
 <!--                <div class="sc-n18jfr-0 sc-zijx95-0 iyQYZ VnWWU">-->
@@ -1630,7 +1633,7 @@ display: none; */
 
 
 <!--            </div>-->
-<!--            <?php include('../include/footer.php') ?>-->
+<!--          footer was here -->
 
 
 <!--            <script data-cfasync="false" src="../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>-->
