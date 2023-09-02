@@ -976,11 +976,11 @@ display: none; */
 <!--            }-->
 <!--        }-->
 
-        /* #about-job-1 {
+        <!-- /* #about-job-1 {
 display: none; */
         /* right: -200px; /* Start offscreen */
         /*transition: right 1s ease-in-out; */
-        /* } */
+        /* } */ -->
 
 <!--        .hide {-->
 <!--            display: none;-->
@@ -989,7 +989,7 @@ display: none; */
 <!--        .show {-->
 <!--            display: block;-->
 
-            /* Start hidden outside the viewport */
+            <!-- /* Start hidden outside the viewport */ -->
 <!--            animation: slideInFromRight 1.5s;-->
 <!--        }-->
 
@@ -1683,13 +1683,13 @@ display: none; */
 <!--                    function handleFileUpload(event) {-->
 <!--                        $('.sc-hLseeU.fCqcjj').hide();-->
 <!--                        const file = event.target.files[0];-->
-                        // Perform actions with the uploaded file
+                        <!-- // Perform actions with the uploaded file -->
 <!--                        $('.sc-hLseeU.jigbtA').text(file.name);-->
 <!--                        const formData = new FormData();-->
 <!--                        formData.append('file', file);-->
 
 <!--                        $.ajax({-->
-                            url: '../uploadCV', // Replace with your server-side upload endpoint
+                            <!-- url: '../uploadCV', // Replace with your server-side upload endpoint -->
 <!--                            method: 'POST',-->
 <!--                            data: formData,-->
 <!--                            processData: false,-->
@@ -1715,13 +1715,13 @@ display: none; */
 <!--                }-->
 
 <!--                function handleUploadSuccess(response) {-->
-                    // Upload completed
+                    <!-- // Upload completed -->
 <!--                    console.log('Upload successful');-->
 
 <!--                }-->
 
 <!--                function handleUploadError() {-->
-                    // Error occurred during upload
+                    <!-- // Error occurred during upload -->
 <!--                    console.log('Upload failed');-->
 <!--                }-->
 <!--                var form = document.querySelector('.cvForm');-->
@@ -1736,7 +1736,7 @@ display: none; */
 <!--                        }).then(-->
 <!--                            response => response.json()-->
 <!--                        ).then((html) => {-->
-                            // you can put any JS code here
+                            <!-- // you can put any JS code here -->
 <!--                            Succes();-->
 <!--                            $('#btnSubmit').val('Submit');-->
 <!--                            $(location).attr('href', '../Success/Index.php');-->
@@ -1748,10 +1748,10 @@ display: none; */
 <!--                });-->
 
 <!--                function validateForm() {-->
-                    // Reset border color and clear input fields
+                    <!-- // Reset border color and clear input fields -->
 <!--                    $('input').removeClass('error');-->
 
-                    // Validate form fields
+                    <!-- // Validate form fields -->
 <!--                    var firstName = $('#firstName').val();-->
 <!--                    var email = $('#email').val();-->
 <!--                    var phone = $('#phone').val();-->
@@ -1761,7 +1761,7 @@ display: none; */
 <!--                    var customQuestion2 = $('[name="customQuestions[487]"]').val();-->
 <!--                    var customQuestion3 = $('[name="customQuestions[488]"]').val();-->
 
-                    // Check if required fields are empty
+                    <!-- // Check if required fields are empty -->
 <!--                    if (firstName.trim() === '') {-->
 <!--                        $('#firstName').addClass('error');-->
 <!--                        return false;-->
@@ -1793,7 +1793,7 @@ display: none; */
 
 
 
-                    // Form validation passed
+                    <!-- // Form validation passed -->
 <!--                    return true;-->
 <!--                }-->
 
