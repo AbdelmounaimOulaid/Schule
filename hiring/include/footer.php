@@ -122,11 +122,11 @@
                                         <ul>
 
 
-                                            <li><a href="https://www.instagram.com/hoch.institute/"><i class="fa-brands fa-instagram"></i></a></li>
+                                            <li><a href="https://www.instagram.com/schule.institute/"><i class="fa-brands fa-instagram"></i></a></li>
 
-                                            <li><a href="https://www.linkedin.com/company/hoch-institute-2020/about/"><i class="fa-brands fa-linkedin-in"></i></a></li>
+                                            <li><a href="https://schuleinstitute.com/404"><i class="fa-brands fa-linkedin-in"></i></a></li>
 
-                                            <li><a href="https://wa.me/message/ZMNTQNMUOYW7D1"><i class="fa-brands fa-whatsapp"></i></a></li>
+                                            <li><a href="https://wa.me/message/J5HOKRMWS7WFB1"><i class="fa-brands fa-whatsapp"></i></a></li>
 
                                         </ul>
 
@@ -218,14 +218,14 @@
 
                                         <li>
 
-                                            <a href="mailto:contact@Schuleinstitute.com"><i class="far fa-envelope"></i> contact@hochinstitute.com</a>
+                                            <a href="mailto:contact@schuleinstitute.com"><i class="far fa-envelope"></i> contact@schuleinstitute.com</a>
                                         
                                             
                                         </li>
 
                                         <li>
                                             
-                                            <a href="mailto:hiring@Schuleinstitute.com"><i class="far fa-envelope"></i> hiring@hochinstitute.com</a>
+                                            <a href="mailto:hiring@schuleinstitute.com"><i class="far fa-envelope"></i> hiring@schuleinstitute.com</a>
                                         
                                             
                                         </li>
@@ -233,7 +233,7 @@
                                         <li>
 
 
-                                            <a href="#"><i class="fa-sharp fa-solid fa-phone"></i>+49 (155) 108 13113 </a>
+                                            <a href="#"><i class="fa-sharp fa-solid fa-phone"></i>+41 (784) 6064 34 </a>
 
                                         </li>
 
@@ -271,7 +271,7 @@
 
                                 <div class="footer__copyright text-left">
 
-                                  <p> Copyright© 2020-2023 Schule Institute An der. Spandauer Brücke 8, 10178 Berlin, Germany All Rights Reserved.
+                                  <p> Copyright© 2020-2023 Schule Institute kreuzstrasse 24, 8008 Zürich, Switzerland All Rights Reserved.
                                 </div>
 
                             </div>

@@ -192,7 +192,7 @@ display: none; */
                             <div class="sc-beqWaB GRRGN">
                                 <div class="sc-beqWaB iXrrJh">
                                     <div class="sc-beqWaB bNYlVB">
-                                        <h1 class="sc-hLseeU kcOlDA">Customer Service Representative - 28 to 50$/h </h1>
+                                        <h1 class="sc-hLseeU kcOlDA">English Second Language Teacher - 28 to 50$/h </h1>
                                     </div>
                                     <div class="sc-gueYoa sc-1i6aj0b-0 egmPKj htqWJc">
                                         <div class="sc-gueYoa sc-1i6aj0b-1 jFHDjD kPAANs location"><i class="sc-jTrPJq dDtKCp sc-gWrJbu cnfMfJ sc-gWrJbu cnfMfJ"><svg fill="none" viewBox="0 0 24 24" name="LocationPinIcon">
@@ -224,23 +224,22 @@ display: none; */
                             <div id="about-job" class="sc-beqWaB aNQZS show">
                                 <div class="sc-bu9p56-0 cVqXyA">
                                     <div class="sc-hLseeU eFIfeu">
-                                        <p>We are hiring a Customer Service Representative to work closely with our team members in order to provide outstanding information to our potential students by answering questions, handling complaints, and troubleshooting problems. </p>
+                                        <p>We are looking for a committed online English teacher to join our experienced team. As an online English teacher, your responsibilities will include preparing lesson plans, presenting learning material, and tracking students' performance. </p>
                                     </div>
                                     <h2 class="sc-hLseeU gDfXIv">Responsibilities</h2>
                                     <div class="sc-hLseeU eFIfeu">
                                         <ul>
-                                            <li>Listen to students, understand, meet their needs, and resolve their issues while building rapport and creating a memorable experience.</li>
-                                            <li>Assist with other duties as needed.</li>
+                                            <li>Developing educational content such as notes and quizzes.</li>
+                                            <li>Assigning activities to facilitate students'consolidation of learning material.</li>
                                             <li>Maintaining a positive, empathetic, and professional attitude toward students at all times.<li>
-                                            <li>Follow up with the students until they join the institute. <li>
                                         </ul>
                                     </div>
                                     <h2 class="sc-hLseeU gDfXIv">Job Requirements</h2>
                                     <div class="sc-hLseeU eFIfeu">
                                         <ul>
-                                            <li>Exceptional customer service skills, active listening abilities, verbal and written communication skills, and a professional phone voice.</li>
-                                            <li>Proficiency with computers, especially with CRM software, and strong typing skills. </li>
-                                            <li>Excellent time management and decision-making skills.</li>
+                                            <li>Prior experience as an English teacher, preferably in a similar environment.</li>
+                                            <li>Outstanding verbal and written communication skills. </li>
+                                            <li>Laptop or desktop computer equipped with an HD webcam.</li>
                                         </ul>
                                     </div>
                                     <h2 class="sc-hLseeU gDfXIv">Position Details</h2>
@@ -266,7 +265,7 @@ display: none; */
                                                         <path fill-rule="evenodd" stroke="#3F3F46" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.7" d="M10.168 4.05975C7.27799 8.88475 7.27799 15.1158 10.168 19.9408C11.014 21.3538 12.987 21.3538 13.833 19.9408C16.723 15.1158 16.723 8.88475 13.833 4.05975C12.986 2.64675 11.014 2.64675 10.168 4.05975Z" clip-rule="evenodd" vector-effect="non-scaling-stroke"></path>
                                                         <path stroke="#3F3F46" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.7" d="M4.01001 7.8584C8.90201 9.3694 15.098 9.3694 19.989 7.8584" vector-effect="non-scaling-stroke"></path>
                                                         <path stroke="#3F3F46" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.7" d="M19.99 16.142C15.098 14.631 8.90199 14.631 4.01099 16.142" vector-effect="non-scaling-stroke"></path>
-                                                    </svg></i><a data-testid="Link" href="https://www.hochinstitute.com/" target="_blank" rel="noopener nofollow" class="sc-fRcFJl grLsVT sc-1h50btb-2 bhcmJ sc-1h50btb-2 bhcmJ"><span class="sc-hLVzOi hcJXqg">hochinstitute.com</span></a></div>
+                                                    </svg></i><a data-testid="Link" href="https://www.schuleinstitute.com/" target="_blank" rel="noopener nofollow" class="sc-fRcFJl grLsVT sc-1h50btb-2 bhcmJ sc-1h50btb-2 bhcmJ"><span class="sc-hLVzOi hcJXqg">schuleinstitute.com</span></a></div>
                                             <div data-testid="employees" class="sc-gueYoa sc-1h50btb-1 fyHOw hVAYJD"><i class="sc-jTrPJq cMkBUH sc-cmtnDe sc-cmtnDe"><svg fill="none" viewBox="0 0 24 24" name="TeamIcon">
                                                         <path stroke="#3F3F46" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.7" d="M15.2156 10.4282C17.0019 10.3632 18.4198 8.90226 18.4313 7.11482C18.4037 5.36614 16.9643 3.97058 15.2156 3.99695" vector-effect="non-scaling-stroke"></path>
                                                         <path fill-rule="evenodd" stroke="#3F3F46" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.7" d="M9.42747 10.4282C11.2138 10.3632 12.6316 8.90226 12.6431 7.11482C12.6155 5.36614 11.1762 3.97058 9.42747 3.99695C7.67877 3.97058 6.23946 5.36614 6.21185 7.11482C6.22286 8.90244 7.64098 10.3637 9.42747 10.4282V10.4282Z" clip-rule="evenodd" vector-effect="non-scaling-stroke"></path>
@@ -639,7 +638,7 @@ display: none; */
                                                         <path fill-rule="evenodd" stroke="#3F3F46" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.7" d="M10.168 4.05975C7.27799 8.88475 7.27799 15.1158 10.168 19.9408C11.014 21.3538 12.987 21.3538 13.833 19.9408C16.723 15.1158 16.723 8.88475 13.833 4.05975C12.986 2.64675 11.014 2.64675 10.168 4.05975Z" clip-rule="evenodd" vector-effect="non-scaling-stroke"></path>
                                                         <path stroke="#3F3F46" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.7" d="M4.01001 7.8584C8.90201 9.3694 15.098 9.3694 19.989 7.8584" vector-effect="non-scaling-stroke"></path>
                                                         <path stroke="#3F3F46" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.7" d="M19.99 16.142C15.098 14.631 8.90199 14.631 4.01099 16.142" vector-effect="non-scaling-stroke"></path>
-                                                    </svg></i><a data-testid="Link" href="https://www.hochinstitute.com/" target="_blank" rel="noopener nofollow" class="sc-fRcFJl grLsVT sc-1h50btb-2 bhcmJ sc-1h50btb-2 bhcmJ"><span class="sc-hLVzOi hcJXqg">hochinstitute.com</span></a></div>
+                                                    </svg></i><a data-testid="Link" href="https://www.schuleinstitute.com/" target="_blank" rel="noopener nofollow" class="sc-fRcFJl grLsVT sc-1h50btb-2 bhcmJ sc-1h50btb-2 bhcmJ"><span class="sc-hLVzOi hcJXqg">schuleinstitute.com</span></a></div>
                                             <div data-testid="employees" class="sc-gueYoa sc-1h50btb-1 fyHOw hVAYJD"><i class="sc-jTrPJq cMkBUH sc-cmtnDe sc-cmtnDe"><svg fill="none" viewBox="0 0 24 24" name="TeamIcon">
                                                         <path stroke="#3F3F46" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.7" d="M15.2156 10.4282C17.0019 10.3632 18.4198 8.90226 18.4313 7.11482C18.4037 5.36614 16.9643 3.97058 15.2156 3.99695" vector-effect="non-scaling-stroke"></path>
                                                         <path fill-rule="evenodd" stroke="#3F3F46" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.7" d="M9.42747 10.4282C11.2138 10.3632 12.6316 8.90226 12.6431 7.11482C12.6155 5.36614 11.1762 3.97058 9.42747 3.99695C7.67877 3.97058 6.23946 5.36614 6.21185 7.11482C6.22286 8.90244 7.64098 10.3637 9.42747 10.4282V10.4282Z" clip-rule="evenodd" vector-effect="non-scaling-stroke"></path>
@@ -1193,7 +1192,7 @@ display: none; */
 <!--                                                        <path fill-rule="evenodd" stroke="#3F3F46" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.7" d="M10.168 4.05975C7.27799 8.88475 7.27799 15.1158 10.168 19.9408C11.014 21.3538 12.987 21.3538 13.833 19.9408C16.723 15.1158 16.723 8.88475 13.833 4.05975C12.986 2.64675 11.014 2.64675 10.168 4.05975Z" clip-rule="evenodd" vector-effect="non-scaling-stroke"></path>-->
 <!--                                                        <path stroke="#3F3F46" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.7" d="M4.01001 7.8584C8.90201 9.3694 15.098 9.3694 19.989 7.8584" vector-effect="non-scaling-stroke"></path>-->
 <!--                                                        <path stroke="#3F3F46" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.7" d="M19.99 16.142C15.098 14.631 8.90199 14.631 4.01099 16.142" vector-effect="non-scaling-stroke"></path>-->
-<!--                                                    </svg></i><a data-testid="Link" href="https://www.hochinstitute.com/" target="_blank" rel="noopener nofollow" class="sc-fRcFJl grLsVT sc-1h50btb-2 bhcmJ sc-1h50btb-2 bhcmJ"><span class="sc-hLVzOi hcJXqg">hochinstitute.com</span></a></div>-->
+<!--                                                    </svg></i><a data-testid="Link" href="https://www.schuleinstitute.com/" target="_blank" rel="noopener nofollow" class="sc-fRcFJl grLsVT sc-1h50btb-2 bhcmJ sc-1h50btb-2 bhcmJ"><span class="sc-hLVzOi hcJXqg">schuleinstitute.com</span></a></div>-->
 <!--                                            <div data-testid="employees" class="sc-gueYoa sc-1h50btb-1 fyHOw hVAYJD"><i class="sc-jTrPJq cMkBUH sc-cmtnDe sc-cmtnDe"><svg fill="none" viewBox="0 0 24 24" name="TeamIcon">-->
 <!--                                                        <path stroke="#3F3F46" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.7" d="M15.2156 10.4282C17.0019 10.3632 18.4198 8.90226 18.4313 7.11482C18.4037 5.36614 16.9643 3.97058 15.2156 3.99695" vector-effect="non-scaling-stroke"></path>-->
 <!--                                                        <path fill-rule="evenodd" stroke="#3F3F46" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.7" d="M9.42747 10.4282C11.2138 10.3632 12.6316 8.90226 12.6431 7.11482C12.6155 5.36614 11.1762 3.97058 9.42747 3.99695C7.67877 3.97058 6.23946 5.36614 6.21185 7.11482C6.22286 8.90244 7.64098 10.3637 9.42747 10.4282V10.4282Z" clip-rule="evenodd" vector-effect="non-scaling-stroke"></path>-->
@@ -1566,7 +1565,7 @@ display: none; */
 <!--                                                        <path fill-rule="evenodd" stroke="#3F3F46" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.7" d="M10.168 4.05975C7.27799 8.88475 7.27799 15.1158 10.168 19.9408C11.014 21.3538 12.987 21.3538 13.833 19.9408C16.723 15.1158 16.723 8.88475 13.833 4.05975C12.986 2.64675 11.014 2.64675 10.168 4.05975Z" clip-rule="evenodd" vector-effect="non-scaling-stroke"></path>-->
 <!--                                                        <path stroke="#3F3F46" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.7" d="M4.01001 7.8584C8.90201 9.3694 15.098 9.3694 19.989 7.8584" vector-effect="non-scaling-stroke"></path>-->
 <!--                                                        <path stroke="#3F3F46" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.7" d="M19.99 16.142C15.098 14.631 8.90199 14.631 4.01099 16.142" vector-effect="non-scaling-stroke"></path>-->
-<!--                                                    </svg></i><a data-testid="Link" href="https://www.hochinstitute.com/" target="_blank" rel="noopener nofollow" class="sc-fRcFJl grLsVT sc-1h50btb-2 bhcmJ sc-1h50btb-2 bhcmJ"><span class="sc-hLVzOi hcJXqg">hochinstitute.com</span></a></div>-->
+<!--                                                    </svg></i><a data-testid="Link" href="https://www.schuleinstitute.com/" target="_blank" rel="noopener nofollow" class="sc-fRcFJl grLsVT sc-1h50btb-2 bhcmJ sc-1h50btb-2 bhcmJ"><span class="sc-hLVzOi hcJXqg">schuleinstitute.com</span></a></div>-->
 <!--                                            <div data-testid="employees" class="sc-gueYoa sc-1h50btb-1 fyHOw hVAYJD"><i class="sc-jTrPJq cMkBUH sc-cmtnDe sc-cmtnDe"><svg fill="none" viewBox="0 0 24 24" name="TeamIcon">-->
 <!--                                                        <path stroke="#3F3F46" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.7" d="M15.2156 10.4282C17.0019 10.3632 18.4198 8.90226 18.4313 7.11482C18.4037 5.36614 16.9643 3.97058 15.2156 3.99695" vector-effect="non-scaling-stroke"></path>-->
 <!--                                                        <path fill-rule="evenodd" stroke="#3F3F46" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.7" d="M9.42747 10.4282C11.2138 10.3632 12.6316 8.90226 12.6431 7.11482C12.6155 5.36614 11.1762 3.97058 9.42747 3.99695C7.67877 3.97058 6.23946 5.36614 6.21185 7.11482C6.22286 8.90244 7.64098 10.3637 9.42747 10.4282V10.4282Z" clip-rule="evenodd" vector-effect="non-scaling-stroke"></path>-->

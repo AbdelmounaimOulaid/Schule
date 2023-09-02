@@ -124,9 +124,9 @@
 
                                             <li><a href="https://www.instagram.com/schule.institute/"><i class="fa-brands fa-instagram"></i></a></li>
 
-                                            <li><a href="https://www.linkedin.com/company/schule-institute-2020/"><i class="fa-brands fa-linkedin-in"></i></a></li>
+                                            <li><a href="https://schuleinstitute.com/404"><i class="fa-brands fa-linkedin-in"></i></a></li>
 
-                                            <li><a href="https://wa.me/message/AXEW2N5MI3QXP1"><i class="fa-brands fa-whatsapp"></i></a></li>
+                                            <li><a href="https://wa.me/message/J5HOKRMWS7WFB1"><i class="fa-brands fa-whatsapp"></i></a></li>
 
                                         </ul>
 
