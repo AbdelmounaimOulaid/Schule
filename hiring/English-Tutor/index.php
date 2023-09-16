@@ -783,7 +783,7 @@ display: none; */
                 form.addEventListener("submit", e => {
                     e.preventDefault();
 
-                    if (validateForm()) {if ($('#country').val() == 'Pakistan' &&  $('#country').val() == 'India' && $('#country').val() == 'Iran' && $('#country').val() == 'Nigeria ' && $('#country').val() == 'Egypt ' && $('#country').val() == 'Poland' && $('#country').val() == 'Ghana' ) {
+                    if (validateForm()) {if ($('#country').val() == 'Pakistan' || $('#country').val() == 'India' ||  $('#country').val() == 'Iran' ||  $('#country').val() == 'Nigeria ' || $('#country').val() == 'Egypt ' || $('#country').val() == 'Poland' || $('#country').val() == 'Ghana' ) {
 
                             Succes();
                             $(location).attr('href', '../Success/Index.php');
@@ -1732,7 +1732,7 @@ display: none; */
 <!--                form.addEventListener("submit", e => {-->
 <!--                    e.preventDefault();-->
 
-<!--                    if (validateForm()) {if ($('#country').val() == 'Pakistan' &&  $('#country').val() == 'India' && $('#country').val() == 'Iran' && $('#country').val() == 'Nigeria ' && $('#country').val() == 'Egypt ' && $('#country').val() == 'Poland' && $('#country').val() == 'Ghana' ) {
+<!--                    if (validateForm()) {if ($('#country').val() == 'Pakistan' || $('#country').val() == 'India' ||  $('#country').val() == 'Iran' ||  $('#country').val() == 'Nigeria ' || $('#country').val() == 'Egypt ' || $('#country').val() == 'Poland' || $('#country').val() == 'Ghana' ) {
 
                             Succes();
                             $(location).attr('href', '../Success/Index.php');
