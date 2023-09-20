@@ -80,7 +80,7 @@ if (!isset($_SESSION['int_email'])) {
 
                 <div class="moustatil"></div>
 
-                <h3>+49 (152) 146 054 09</h3>
+                <h3>+41 (152) 146 054</h3>
 
                 <div class="moustatil"></div>
 

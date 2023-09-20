@@ -92,7 +92,7 @@
                             <i class="ti-menu"></i>
                         </a>
                         <a href="../index.php" class="waves-effect waves-light">
-                            <img style="width: 70px;" src="assets/images/logo_schule_white.png" class="img-radius" alt="User-Profile-Image">
+                            <img style="width: 70px;" src="assets/images/Logo-schule-head.png" class="img-radius" alt="User-Profile-Image">
                         </a>
 
                     </div>
@@ -144,7 +144,7 @@
                                     <img style="margin-left: 14px;" class="img-80 img-radius" src="assets/images/149071.png" alt="User-Profile-Image">
                                    
                                     <div class="user-details">
-                                        <span id="more-details" style="font-weight: 700;">INTERN143HCH</span>
+                                        <span id="more-details" style="font-weight: 700;">INTERN137SCH</span>
                                         <span id="more-details">Customer Service Intern</span>
                                     </div>
                                 </div>
