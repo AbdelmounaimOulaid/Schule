@@ -10,7 +10,7 @@
 <html lang="en">
 
 <head>
-<title>Schule - Dashboard</title>
+<title>Schule Institute - Dashboard</title>
 <link rel="shortcut icon" type="image/x-icon" href="../assets/img/logo_schule.png">
     <?php include('dash-header/dash-header.php') ?>
 

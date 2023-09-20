@@ -10,7 +10,7 @@ if (!isset($_SESSION['int_email'])) {
 <html lang="en">
 
 <head>
-    <title>Schule</title>
+    <title>Schule Institute</title>
 
     <link rel="shortcut icon" type="image/x-icon" href="../assets/img/logo_schule.png">
 
